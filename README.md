@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0217-contains-duplicate](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 ## Sorting
 |  |
@@ -90,5 +92,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
