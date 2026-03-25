@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
+| [3546-equal-sum-grid-partition-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,10 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
+| [3546-equal-sum-grid-partition-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [3546-equal-sum-grid-partition-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
