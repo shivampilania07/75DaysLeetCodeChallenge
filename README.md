@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
