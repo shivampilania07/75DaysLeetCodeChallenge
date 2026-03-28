@@ -136,9 +136,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0735-asteroid-collision](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
