@@ -23,22 +23,26 @@ class Solution {
             return ans;
 
         queue.add(root);
-        
+
         while (!queue.isEmpty()) {
             int size = queue.size();
-            List<Integer> sublist = new ArrayList<>();
-
+            List<Integer> list = new ArrayList<>();
             for (int i = 0; i < size; i++) {
-                
+
+
                 if (queue.peek().left != null) {
                     queue.add(queue.peek().left);
                 }
+
                 if (queue.peek().right != null) {
                     queue.add(queue.peek().right);
                 }
-                sublist.add(queue.poll().val);
+
+                list.add(queue.poll().val);
             }
-            ans.add(sublist);
+
+            ans.add(list);
+
         }
         return ans;
     }
