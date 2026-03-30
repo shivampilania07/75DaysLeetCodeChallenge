@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
@@ -165,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
