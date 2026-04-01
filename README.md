@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0931-minimum-falling-path-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Dynamic Programming
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -184,8 +188,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
