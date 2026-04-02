@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0931-minimum-falling-path-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Dynamic Programming
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Prefix Sum
