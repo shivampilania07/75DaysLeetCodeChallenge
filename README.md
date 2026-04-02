@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0931-minimum-falling-path-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Simulation
 |  |
@@ -196,5 +198,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
