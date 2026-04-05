@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
 ## Binary Tree
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
@@ -237,4 +239,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
