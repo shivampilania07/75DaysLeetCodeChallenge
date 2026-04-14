@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-swim-in-rising-water](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-swim-in-rising-water](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
