@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2463-minimum-total-distance-traveled](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 | [2463-minimum-total-distance-traveled](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
