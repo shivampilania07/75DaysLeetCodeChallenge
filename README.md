@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
 |  |
