@@ -1,68 +1,73 @@
-class Trie {
-    static class TrieNode {
-        TrieNode[] children;
-        boolean isEndOfWord;
+class Node {
+    Node links[] = new Node[26];
+    boolean flag = false;
 
-        TrieNode() {
-            children = new TrieNode[26];
-            isEndOfWord = false;
-        }
+    public Node() {
+
+    }
+    
+    boolean containsKey(char ch) {
+        return (links[ch - 'a'] != null);
     }
 
-    private TrieNode root;
+    Node get(char ch){
+        return links[ch-'a'];
+    }
+
+    void put(char ch, Node node){
+        links[ch-'a'] = node;
+    }
+
+    void setEnd() {
+        flag = true;
+    }
+
+    boolean isEnd() {
+        return flag;
+    }
+}
+
+class Trie {
+    public static Node root;
 
     public Trie() {
-        root = new TrieNode();
-    }
-
-    private TrieNode getNode(){
-        return new TrieNode();
+        root = new Node();
     }
 
     public void insert(String word) {
-        TrieNode crawler = root;
-
-        for (int i = 0; i < word.length(); i++) {
-            int index = word.charAt(i) - 'a';
-            if (crawler.children[index] == null)
-                crawler.children[index] = getNode();
-
-            crawler = crawler.children[index];
+        Node node = root;
+        for(int i = 0;i<word.length();i++){
+            if(!node.containsKey(word.charAt(i))){
+                node.put(word.charAt(i),new Node());
+            }
+            node = node.get(word.charAt(i));
         }
-
-        crawler.isEndOfWord = true;
+        node.setEnd();
     }
 
     public boolean search(String word) {
-        TrieNode crawler = root;
-
-        for (int i = 0; i < word.length(); i++) {
-            int index = word.charAt(i) - 'a';
-            if (crawler.children[index] == null) {
+        Node node = root;
+        for(int i = 0;i<word.length();i++){
+            if(!node.containsKey(word.charAt(i))){
                 return false;
             }
-            crawler = crawler.children[index];
+            node = node.get(word.charAt(i));
         }
-
-        return crawler != null && crawler.isEndOfWord;
+        if(node.isEnd()){
+            return true;
+        }
+        return false;
     }
 
     public boolean startsWith(String prefix) {
-         TrieNode crawler = root;
-        int i = 0;
-        for ( i = 0; i < prefix.length(); i++) {
-            int index = prefix.charAt(i) - 'a';
-            if (crawler.children[index] == null) {
+        Node node = root;
+        for(int i = 0;i<prefix.length();i++){
+            if(!node.containsKey(prefix.charAt(i))){
                 return false;
             }
-            crawler = crawler.children[index];
+            node = node.get(prefix.charAt(i));
         }
-
-        if(i == prefix.length()){
-            return true;
-        }
-
-        return false;
+        return true;
     }
 }
 
