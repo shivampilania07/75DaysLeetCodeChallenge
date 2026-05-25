@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 | [1340-jump-game-v](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3225-maximum-score-from-grid-operations) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
+| [1871-jump-game-vii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [1871-jump-game-vii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3225-maximum-score-from-grid-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [1871-jump-game-vii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 ## Stack
 |  |
 | ------- |
