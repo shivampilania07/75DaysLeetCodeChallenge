@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Backtracking
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
