@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1340-jump-game-v](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1340-jump-game-v) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
+| [0997-find-the-town-judge](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
