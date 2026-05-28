@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
