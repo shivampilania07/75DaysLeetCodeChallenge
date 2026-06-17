@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3614-process-string-with-special-operations-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3614-process-string-with-special-operations-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 ## Tree
 |  |
 | ------- |
