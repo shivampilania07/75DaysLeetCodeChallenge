@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2463-minimum-total-distance-traveled](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1340-jump-game-v](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1340-jump-game-v) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2463-minimum-total-distance-traveled](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
 ## String
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -553,4 +556,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Number Theory
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 <!---LeetCode Topics End-->
