@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
