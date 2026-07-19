@@ -3,25 +3,18 @@ class Solution {
         int n = s.length();
         int m = t.length();
 
-        if (n != m)
-            return false;
+        if(n!=m) return false;
 
-        HashMap<Character, Integer> m1 = new HashMap<>();
-        for (int i = 0; i < n; i++) {
-            char ch = s.charAt(i);
-            m1.put(ch, m1.getOrDefault(ch, 0) + 1);
+        Map<Character,Integer> map1 = new HashMap<>();
+        Map<Character,Integer> map2 = new HashMap<>();
+
+        for(char ch : s.toCharArray()){
+            map1.put(ch,map1.getOrDefault(ch,0)+1);
         }
 
-        HashMap<Character, Integer> m2 = new HashMap<>();
-        for (int i = 0; i < m; i++) {
-            char ch = t.charAt(i);
-            m2.put(ch, m2.getOrDefault(ch, 0) + 1);
+        for(char ch : t.toCharArray()){
+            map2.put(ch,map2.getOrDefault(ch,0)+1);
         }
-
-        if(m1.equals(m2)){
-            return true;
-        }
-
-        return false;
+        return map1.equals(map2);
     }
 }
