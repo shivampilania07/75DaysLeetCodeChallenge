@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 ## Divide and Conquer
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Sliding Window
