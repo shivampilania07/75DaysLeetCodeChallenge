@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 ## Divide and Conquer
 |  |
@@ -589,4 +592,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shivampilania07/75DaysLeetCodeChallenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
